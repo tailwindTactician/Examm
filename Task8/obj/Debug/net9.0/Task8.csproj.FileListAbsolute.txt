@@ -1,0 +1,4 @@
+C:\Users\mardin\Desktop\Examm\task8\obj\Debug\net9.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin\Desktop\Examm\task8\obj\Debug\net9.0\Task8.AssemblyInfoInputs.cache
+C:\Users\mardin\Desktop\Examm\task8\obj\Debug\net9.0\Task8.AssemblyInfo.cs
+C:\Users\mardin\Desktop\Examm\task8\obj\Debug\net9.0\Task8.csproj.CoreCompileInputs.cache
